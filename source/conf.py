@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Balospe'
-copyright = '2022, LLoL'
+copyright = '2022, OOr0p2, LLoL'
 author = 'Laurence Loewe of Laodicea'
 release = 'OOr0p2'
 

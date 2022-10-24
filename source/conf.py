@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Balospe coming together'
+project = 'Balospe'
 copyright = '2022, LLoL'
-author = 'LLoL'
-release = 'OOr0p1'
+author = 'Laurence Loewe of Laodicea'
+release = 'OOr0p2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

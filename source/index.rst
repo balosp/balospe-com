@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Balospe coming together's documentation!
-===================================================
+Is it possible for a Baloce-o-stat species to come together? Let's go Balospe!
+===============================================================================
 
 .. toctree::
    :maxdepth: 2

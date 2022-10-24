@@ -1,4 +1,6 @@
-# For ideas on what might go here, see https://github.com/github/gitignore 
+# For ideas on what might go here, see 
+#     https://github.com/github/gitignore 
+
 
 build/doctrees/*
 
